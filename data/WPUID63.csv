@@ -1,10 +1,13 @@
 +-----------+------+--------+---------+---------------------------------------------------------------------------------------------------------+
 , series id , year , period ,  value  ,                                                footnotes                                                ,
 +-----------+------+--------+---------+---------------------------------------------------------------------------------------------------------+
-,  WPUID63  , 2022 ,  M09   , 141.039 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
-,  WPUID63  , 2022 ,  M08   , 140.882 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
-,  WPUID63  , 2022 ,  M07   , 139.767 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
-,  WPUID63  , 2022 ,  M06   , 139.484 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID63  , 2022 ,  M12   , 142.607 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID63  , 2022 ,  M11   , 142.926 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID63  , 2022 ,  M10   , 141.621 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID63  , 2022 ,  M09   , 141.080 ,                                                                                                         ,
+,  WPUID63  , 2022 ,  M08   , 140.615 ,                                                                                                         ,
+,  WPUID63  , 2022 ,  M07   , 139.803 ,                                                                                                         ,
+,  WPUID63  , 2022 ,  M06   , 139.535 ,                                                                                                         ,
 ,  WPUID63  , 2022 ,  M05   , 139.889 ,                                                                                                         ,
 ,  WPUID63  , 2022 ,  M04   , 139.335 ,                                                                                                         ,
 ,  WPUID63  , 2022 ,  M03   , 138.107 ,                                                                                                         ,

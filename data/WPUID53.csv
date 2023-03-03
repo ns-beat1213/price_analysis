@@ -1,10 +1,13 @@
 +-----------+------+--------+---------+---------------------------------------------------------------------------------------------------------+
 , series id , year , period ,  value  ,                                                footnotes                                                ,
 +-----------+------+--------+---------+---------------------------------------------------------------------------------------------------------+
-,  WPUID53  , 2022 ,  M09   , 151.817 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
-,  WPUID53  , 2022 ,  M08   , 152.788 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
-,  WPUID53  , 2022 ,  M07   , 155.762 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
-,  WPUID53  , 2022 ,  M06   , 158.202 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID53  , 2022 ,  M12   , 148.022 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID53  , 2022 ,  M11   , 151.435 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID53  , 2022 ,  M10   , 151.994 , Preliminary. All indexes are subject to monthly revisions up to four months after original publication. ,
+,  WPUID53  , 2022 ,  M09   , 151.766 ,                                                                                                         ,
+,  WPUID53  , 2022 ,  M08   , 152.683 ,                                                                                                         ,
+,  WPUID53  , 2022 ,  M07   , 155.712 ,                                                                                                         ,
+,  WPUID53  , 2022 ,  M06   , 158.227 ,                                                                                                         ,
 ,  WPUID53  , 2022 ,  M05   , 157.394 ,                                                                                                         ,
 ,  WPUID53  , 2022 ,  M04   , 154.035 ,                                                                                                         ,
 ,  WPUID53  , 2022 ,  M03   , 150.181 ,                                                                                                         ,
